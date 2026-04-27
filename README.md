@@ -3,3 +3,4 @@
 Alumno: Matias Gonzalez Alvarez
 Curso: INF20125
 Objetivo: Practicar el flujo basico con Git y un remoto por SSH
+Cambio realizado directamente en el remoto.
